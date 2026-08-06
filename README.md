@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Prajjwal Rajput  
+# 👋 Hi, I'm Prajjawal Rajput  
 
 
 
 ## 🚀 About Me  
-I'm **Prajjwal Rajput**, a passionate **Computer Science student**, **Programmer**,**Problem solver**, and a **Full-Stack Web Developer**.  
+I'm **Prajjawal Rajput**, a passionate **Computer Science student**, **Programmer**,**Problem solver**, and a **Full-Stack Web Developer**.  
 I enjoy building real-world projects, exploring new technologies, and sharing knowledge.  
 
 - 🎓 Currently learning **Full-Stack Web Development (MERN)**  
