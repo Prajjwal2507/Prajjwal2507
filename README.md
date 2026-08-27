@@ -43,7 +43,7 @@ I enjoy building real-world projects, exploring new technologies, and sharing kn
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajjwal-rajput-59078b207)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajjawal-rajput)
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:prajjwalrajput2507@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Prajjwal2507)
 
